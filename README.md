@@ -4,9 +4,9 @@
 
 
 ## A. 개발 팀원
-- DGIST [박병현]
+- DGIST 기초학부 [박병현](http://github.com/ByeongHyunPak)
 - KAIST 전산학부 [김민](http://github.com/minggg012)
-- KAIST 전산학부 [정재모]
+- KAIST 전산학부 [정재모](http://github.com/Jaemojung)
 
 ## B. 개발 환경
 
