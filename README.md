@@ -1,6 +1,6 @@
 # MinByeongJae
 > 2022 여름 몰입캠프 2분반 박병현 김민 정재모
-- 미니언즈를 컨셉으로 하여 지휘를 통해 노래의 속도와 템포를 바꿀 수 있도록 한 웹입니다.
+- 미니언즈와 함께 지휘해요 ~! ^_______^
 
 
 ## A. 개발 팀원
@@ -9,9 +9,14 @@
 - KAIST 전산학부 [정재모](http://github.com/Jaemojung)
 
 ## B. 개발 환경
+> html, css, javascript
+> 
+> tensorflow.js posenet
 
 ## C. 프로젝트 설명
-### Loading Page
+### 1. Loading Page
+<img width="1512" alt="start" src="https://user-images.githubusercontent.com/85171279/181438278-aadbb13a-a55d-4fa6-b18f-73260e8b8bad.png">
+
 > 직접 만든 로고가 gif 형식으로 띄워져 있다.
 > 
 > 접속하는 동안 로딩 중이라는 문구가 뜨고, 로딩이 완료되면 START 버튼을 눌러 다음 페이지로 넘어갈 수 있다.
@@ -20,7 +25,9 @@
 
 
 
-### File Register Page
+### 2. File Register Page
+<img width="1512" alt="register" src="https://user-images.githubusercontent.com/85171279/181438370-2d6a98ee-cee9-43c0-9e77-f958435f38ba.png">
+
 > 원하는 영상을 형식에 맞춰 직접 넣을 수 있다.
 > 
 > 지휘하는 동안 뜰 제목을 직접 입력하여 넣을 수 있다.
@@ -31,7 +38,9 @@
 
 
 
-### Main Page
+### 3. Main Page
+<img width="1512" alt="main1" src="https://user-images.githubusercontent.com/85171279/181438397-3f7a7dfd-b4cf-4714-92b6-fd4b83a7fbba.png">
+
 > 노트북에 달린 카메라를 이용하여 사용자의 얼굴, 몸통, 팔을 인식한다.
 > 
 > 지휘자가 인식되면 곡이 시작된다.
@@ -48,7 +57,9 @@
 
 
 
-### Ending Page
+### 4. Ending Page
+<img width="1512" alt="ending" src="https://user-images.githubusercontent.com/85171279/181440186-25003484-499b-4485-b032-26a8d662a675.jpg">
+
 > 노래 지휘가 끝나면 엔딩 페이지가 나온다.
 >
 >
